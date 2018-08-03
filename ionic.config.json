@@ -1,0 +1,7 @@
+{
+  "name": "fq",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
